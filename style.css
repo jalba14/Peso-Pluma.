@@ -1,0 +1,32 @@
+table, th, td {
+    border: 2px solid red;
+    border-collapse: collapse;
+    table-layout: auto;
+}
+
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+form{
+    border: 2px solid rgb(0, 183, 255);
+    border-collapse: collapse;
+    
+}
+body{
+    
+    background-image: url(https://utahconcertreview.com/wp-content/uploads/2024/08/DSC03664-2000x1200.jpg);
+color: purple;
+    /* full height */
+    height: 100%;
+
+    h1 {text-align: center;} 
+    h3 {text-align: center;}
+    h4 {text-align: center;}
+    /* center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
